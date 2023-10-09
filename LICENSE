@@ -1,0 +1,43 @@
+Commercially Permissive Meaningful Contribution License (CPMCL) Version 2.1
+
+Original Repository: Link to the Original Repository
+Number of Relative Projects: 0
+
+Permission is granted, without charge, to any entity obtaining this software and associated files (the "Software"), to use, copy, modify, merge, publish, distribute, sublicense the Software, and to permit persons to whom the Software is furnished to do so, adhering to the following conditions:
+
+1. Commercial Use:
+   - Utilizing the Software or its derivatives for revenue-generating or monetized activities is restricted unless a "Meaningful Contribution" has been made to the project. For clarity, "monetized use" refers to situations where the Software is sold, incorporated into sold products/services, or used for revenue-generating services.
+
+2. Meaningful Contribution Defined:
+   Contributions are deemed "meaningful" if they:
+   a. Address a prevalent issue faced by at least 5 other users via either:
+      i. Comprehensive research and documentation.
+      ii. A pull request with a solution.
+   b. Introduce a feature that satisfies any of:
+      i. Is novel and hasn't been previously rejected by the project maintainer.
+      ii. Has been requested by z users or contributors.
+      iii. Remained a pending request for w months or longer.
+   c. Report an issue that's deemed critical, fundamental to the operation or functioning of the software, or poses a serious/major security threat.
+   d. Present a pull request introducing major functionality or of notable significance, as endorsed by the project maintainer.
+   e. Provisioning of essential resources or materials beneficial for the project with the explicit agreement, understanding, or intent to support the project beyond the exchange of goods and services.
+   f. Bug Reporting:
+      i. 1 bug if the contributor is an individual or belongs to an entity of less than 10 people.
+      ii. 10 bugs for entities housing more individuals.
+      iii. Contributions made by employees must be explicitly on behalf of, and during the compensated time of, their employing entity for them to be counted towards this criterion.
+      iiii. Bug reports must be resolved to completion and fixed, having been deemed an actual bug by at least one project maintainer to be counted toward this criteron.
+   g. Any other significant contribution as deemed appropriate by the maintainer.
+
+3. Contribution Recognition:
+   Contributions should be directed to the specified project repository. Derivatives or forks of the original project may not change the number of relative projects in any case. If the number of relative projects is defined and greater than 0, contributions can be made to projects within the specified number of forks or derivatives of the original project. Otherwise if 0, blank or omitted, 'the project' pertains solely to the original project.
+
+4. Rights Extension:
+   The owner of the project has the discretion to extend the rights of a "Meaningful Contribution" from one of their projects to another project under their ownership bearing this license.
+
+5. Revocation:
+   Once recognized, the status of a "Meaningful Contribution" cannot be withdrawn, barring legally mandated scenarios, such as court directives.
+
+6. Redistribution:
+   Any redistribution of the Software must retain this license, these conditions, and the following disclaimer: 
+   THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTIES OF ANY SORT, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. HOLDERS OF COPYRIGHT, AUTHORS, OR MAINTAINERS SHALL NOT BE LIABLE FOR ANY CLAIMS, DAMAGES, OR OTHER LIABILITIES, IN CONNECTION WITH THE SOFTWARE OR ITS USAGE.
+
+Note: Regarding the "Original Repository" link, derivatives can reference beneath the original but cannot expunge prior links. If "Number of Relative Projects" stands as a placeholder or equals 0, only the original repository link is mandated. If a precise number is furnished, all redistributed versions should incorporate links to their respective platforms.
