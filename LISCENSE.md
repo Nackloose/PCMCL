@@ -1,7 +1,3 @@
-Here is a refined version of the **Commercially Permissive Meaningful Contribution License (CPMCL) Version 2.3** that integrates these new suggestions for revocation, dual-licensing compatibility, and streamlined redistribution terms, while also clarifying cross-project contribution conditions. 
-
----
-
 **Commercially Permissive Meaningful Contribution License (CPMCL) Version 2.3**
 
 **Disclaimer:** THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTIES OF ANY SORT, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. HOLDERS OF COPYRIGHT, AUTHORS, OR MAINTAINERS SHALL NOT BE LIABLE FOR ANY CLAIMS, DAMAGES, OR OTHER LIABILITIES, IN CONNECTION WITH THE SOFTWARE OR ITS USAGE.
@@ -76,6 +72,8 @@ Here is a refined version of the **Commercially Permissive Meaningful Contributi
 ### 9. Jurisdiction
    - Any disputes arising under this license shall be governed by the laws of [Specify Jurisdiction, e.g., California, United States] and resolved in its courts unless another jurisdiction is explicitly agreed upon.
 
+This table serves as a quick reference to clarify contribution requirements and encourage transparency.
+
 ### Summary Table
 | Contribution Type                     | Criteria                                                                                       |
 |---------------------------------------|-----------------------------------------------------------------------------------------------|
@@ -86,9 +84,3 @@ Here is a refined version of the **Commercially Permissive Meaningful Contributi
 | Provisioning Resources                | Must be essential, intentional, and maintainer-approved                                       |
 | Bug Reporting                         | 1 bug for individuals/small entities; 10 bugs for larger entities; must be verified as relevant|
 | Other Contributions                   | As deemed significant by maintainer                                                           |
-
-This table serves as a quick reference to clarify contribution requirements and encourage transparency.
-
----
-
-This refined version addresses the concerns around revocation, compatibility, redistribution, and cross-project contributions. By clarifying revocation grounds, providing dual-licensing guidance, simplifying redistribution terms, and ensuring consent for cross-project applications, this license should now be more robust, adaptable, and transparent.
